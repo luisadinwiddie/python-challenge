@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------
+total months =  86
+total = 22564198
+average change = -8311.105882352942
+Aug-16
+Feb-14
